@@ -5,6 +5,8 @@ This repository is a snapshot of Geovisto ``tools/selection`` derived from the d
 
 ## Usage
 
+![sample](https://user-images.githubusercontent.com/1479229/131546245-eb867c38-f80d-4d9c-a7d6-7f19c1d4e69f.png)
+
 ```js
 import { GeovistoSelectionTool } from 'geovisto-selection';
 
