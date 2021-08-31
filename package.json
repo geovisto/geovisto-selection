@@ -1,6 +1,6 @@
 {
   "name": "geovisto-selection",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Geovisto tool which provides support for selection and highlighting of map layers items",
   "main": "dist/index.js",
   "module": "dist/index.es.js",

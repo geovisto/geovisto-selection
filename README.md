@@ -58,4 +58,4 @@ This package serves as an extension of Geovisto core using the API for Geovisto 
 
 ## License
 
-[MIT](https://github.com/geovisto/geovisto-filters/blob/master/LICENSE)
+[MIT](https://github.com/geovisto/geovisto-selection/blob/master/LICENSE)
